@@ -128,9 +128,9 @@ Digital acknowledgement of honor pledge: Annette Keller
          No /src, /cgi-bin, /img, or /css subdirectories off web root
          Does it have a /secret directory?
 
-         404 Not Found Status info
-            reported by web server apache on Ubuntu 
-            Apache 404 not found: https://i.imgur.com/vZL60Fd.png
+      404 Not Found Status info
+         reported by web server apache on Ubuntu 
+         Apache 404 not found: https://i.imgur.com/vZL60Fd.png
          ![404](https://i.imgur.com/vZL60Fd.png)
 		
          142.93.117.193 --> has an Ubuntu Apache 12.4.18 web server on port 80
