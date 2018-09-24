@@ -24,24 +24,28 @@ Digital acknowledgement of honor pledge: Annette Keller
 
    zara larsson web page, found with Google:
       https://zaralarsson115206071.wordpress.com/2018/08/12/kruegster1990/
-      https://zaralarsson115206071.wordpress.com/2018/08/12/kruegster1990/
-      https://zaralarsson115206071.wordpress.co
 
    Twitter web client referenced under his name with the UMD cybersecurity club 
       https://stwity.com/umdcsec/
 
    websites listed under his name with the UMD cybersecurity club 
       https://www2.idexpertscorp.com/knowledge-cent ..
-      completing link: https://www2.idexpertscorp.com/knowledge-center/tag/kruegster1990
+      complete link: 
+         https://www2.idexpertscorp.com/knowledge-center/tag/kruegster1990
       "No entries were found" for kruegster1990
 	
    Reddit:
       reddit/u/kruegster1990 (account exists with no posts)
-      twicsy.com: tweeter kruegster1990 RT listed in widget of tweets on page
+      
+   twicsy.com: tweeter kruegster1990 RT listed in widget of tweets on page
       https://r2.twicsy.com/i/Ad8Q2n
+
+      ![popularspup img](https://i.imgur.com/waHp4RO.png)
 		
+      ![kruegster1990 popularspup tweets](https://i.imgur.com/GzUU61F.png)
 		
       text kruegster1990 links to: https://r2.twicsy.com/u/kruegster1990
+
       Other social media accounts found on checkusernames.com:
    
          Linked In Not Available
@@ -76,19 +80,26 @@ Digital acknowledgement of honor pledge: Annette Keller
 
    Google search turns up his profile on another twitter account tracker on 
       https://stwity.com/kruegster1990/
+      ![kruegster1990 profile on stwity.com](https://i.imgur.com/KT8EXvH.png)
 
-      The Twitter userid listed at the bottom is 1028770124772397061 & corresponds to user @kruegster1990 (twitter username is also listed with his profile entry with the UMD cybersecurity club)
+      The Twitter userid listed at the bottom is 1028770124772397061 & corresponds to user @kruegster1990 (twitter username is also listed with his profile entry with the UMD cybersecurity club). Userid checks out as really his
+
+      ![twitterid check](https://i.imgur.com/OvtiO6H.png)
 	
       Twitter profile references his website, http://www.cornerstoneairlines.co
-	
+
+      ![cornerstoneairlines.co on Twitter profile](https://i.imgur.com/dNwozrd.png)
 	
       Other info in media posted on cornerstoneairlines.co
 
       main page source:
          href for "Admin" link: http://142.93.117.193
 	 <a class="nav-link" href="http://142.93.117.193">Admin</a>
-	    --> doesn't resolve to a domain name on lookup
+
+	 142.93.117.193 doesn't resolve to a domain name on lookup
+
          email shown as kruegster@tutanota.com does link to that email
+
          Style sheet is /cover.css
             background image is '/wallpaper.jpg"
 			
@@ -101,7 +112,8 @@ Digital acknowledgement of honor pledge: Annette Keller
 
       No /src, /cgi-bin, /img, or /css subdirectories off web root
       404 Not Found status info
-         reported by web server nginx/1/10.3 on Ubuntu
+         reported by web server nginx/1.10.3 on Ubuntu
+         ![404 Not Found nginx](https://i.imgur.com/MDtrVrZ.png)
 			
       Internet archive for cornerstoneairlines.co shows only robots.txt: 
 	 cornerstoneairlines.co/robots.txt saved on 09/08/2018
@@ -110,17 +122,23 @@ Digital acknowledgement of honor pledge: Annette Keller
          checked out cornerstoneairlines.co/secret
          found flag in a comment in index.html: 
             CMSC389R-{fly_th3_sk1es_w1th_u5}
+            ![flag 1](https://i.imgur.com/MDtrVrZ.png)
 			
       142.93.117.193 (link from "Admin" text on main page) 
          No /src, /cgi-bin, /img, or /css subdirectories off web root
          Does it have a /secret directory?
+
+         404 Not Found Status info
+            reported by web server apache on Ubuntu
+            ![404 Not Found Apache](https://i.imgur.com/MvOdsag.png)
 		
          142.93.117.193 --> has an Ubuntu Apache 12.4.18 web server on port 80
-            Internet archive for http://142.93.117.193
+
+         Internet archive for http://142.93.117.193
             shows an assortment of websites, see 
             https://web.archive.org/web/*/http://142.93.117.193
 
-      take break from OSINT for now
+      (Note to self: can do a lot more OSINT but stop here for now)
 
 3. What is the IP address of the webserver hosting his company's site? How did you discover this? 
 
@@ -128,10 +146,13 @@ Digital acknowledgement of honor pledge: Annette Keller
    found searching https://centralops.net/co/DomainDossier.aspx for
       cornerstoneairlines.co
 
+   ![website hosting](https://i.imgur.com/2gwGf1u.png)
+
 4. List any hidden files or directories you found on this website. Did you find any flags?
 
    found image wallpaper.jpg, style sheet cover.css, robots.txt and /secret
    in cornerstoneairlines.co/secret found flag in a comment in index.html
+   ![flag 1](https://i.imgur.com/kWcLFWw.png)
 
 5. Did you find any other IP addresses associated with this website? What do they link to, or where did you find them?
 
@@ -139,6 +160,7 @@ Digital acknowledgement of honor pledge: Annette Keller
       href for "Admin" link: http://142.93.117.193
 	<a class="nav-link" href="http://142.93.117.193">Admin</a>
 	142.93.117.193 (link from "Admin" text on main page) 
+   ![website hosting](https://i.imgur.com/Wtuw85X.png)
 		
 6. If you found any associated server(s), where are they located? How did you discover this?
    
