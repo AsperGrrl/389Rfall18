@@ -122,7 +122,7 @@ Digital acknowledgement of honor pledge: Annette Keller
          checked out cornerstoneairlines.co/secret
          found flag in a comment in index.html: 
             CMSC389R-{fly_th3_sk1es_w1th_u5}
-            ![flag 1](https://i.imgur.com/MDtrVrZ.png)
+            ![flag 1](https://i.imgur.com/kWcLFWw.png)
 			
       142.93.117.193 (link from "Admin" text on main page) 
          No /src, /cgi-bin, /img, or /css subdirectories off web root
