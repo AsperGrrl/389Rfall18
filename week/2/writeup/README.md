@@ -130,6 +130,7 @@ Digital acknowledgement of honor pledge: Annette Keller
 
          404 Not Found Status info
             reported by web server apache on Ubuntu 
+
          ![404 Not Found Apache](https://i.imgur.com/vZL60Fd.png)
 		
          142.93.117.193 --> has an Ubuntu Apache 12.4.18 web server on port 80
