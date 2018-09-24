@@ -118,8 +118,8 @@ Digital acknowledgement of honor pledge: Annette Keller
       Internet archive for cornerstoneairlines.co shows only robots.txt: 
 	 cornerstoneairlines.co/robots.txt saved on 09/08/2018
             User-agent: *
-            Disallow: /secret
-         checked out cornerstoneairlines.co/secret
+            Disallow: /secret.
+         Checked out cornerstoneairlines.co/secret &
          found flag in a comment in index.html: 
             CMSC389R-{fly_th3_sk1es_w1th_u5}
             ![flag 1](https://i.imgur.com/kWcLFWw.png)
@@ -129,8 +129,8 @@ Digital acknowledgement of honor pledge: Annette Keller
          Does it have a /secret directory?
 
          404 Not Found Status info
-            reported by web server apache on Ubuntu
-            ![404 Not Found Apache](https://i.imgur.com/MvOdsag.png)
+            reported by web server apache on Ubuntu 
+         ![404 Not Found Apache](https://i.imgur.com/MvOdsag.png)
 		
          142.93.117.193 --> has an Ubuntu Apache 12.4.18 web server on port 80
 
